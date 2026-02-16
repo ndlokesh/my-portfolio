@@ -15,7 +15,7 @@ const Footer = () => {
                     </div>
 
                     <div className="flex space-x-6">
-                        <a href="#" className="text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                        <a href="https://github.com/ndlokesh" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                             <Github size={20} />
                         </a>
                         <a href="https://www.linkedin.com/in/lokesh-nd-4b9124306" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">

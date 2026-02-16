@@ -26,7 +26,7 @@ const Hero = () => {
                     </p>
 
                     <div className="flex justify-center md:justify-start gap-4 mt-8">
-                        <a href="#" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
+                        <a href="https://github.com/ndlokesh" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
                             <Github size={24} />
                         </a>
                         <a href="https://www.linkedin.com/in/lokesh-nd-4b9124306" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
