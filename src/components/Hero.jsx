@@ -29,7 +29,7 @@ const Hero = () => {
                         <a href="#" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
                             <Github size={24} />
                         </a>
-                        <a href="#" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
+                        <a href="https://www.linkedin.com/in/lokesh-nd-4b9124306" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
                             <Linkedin size={24} />
                         </a>
                         <a href="mailto:nd.lokesh14@gmail.com" className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors">
